@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="org.apache.spark.ml.Pipeline" />
+          <option value="org.apache.spark.ml.classification.NaiveBayes" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
